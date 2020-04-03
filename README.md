@@ -8,4 +8,4 @@ The initial commit of this project is a stripped-down version of the project lin
 
 It can be used as a testbed for other openVPN clients.
 
-The goal of this project is to create an easy-to-use testbed for an openVPN client Android app.
+The goal of this project is to create an easy-to-use bare-bones testbed for an openVPN client Android app.
